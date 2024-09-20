@@ -2,7 +2,6 @@
 
 import { ButtonHTMLAttributes } from 'react'
 import clsx from 'clsx'
-import { ReactHTMLElement } from 'react'
 
 export interface ButtonProps
   extends Partial<ButtonHTMLAttributes<HTMLButtonElement>> {
